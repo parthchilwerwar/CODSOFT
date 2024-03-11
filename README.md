@@ -4,5 +4,5 @@ This repository contains the projects I completed during my internship at CODSOF
 **Projects Overview :**
 Landing page  - A Simple and goodlooking landing page made of simple html and css .
 
-**Technologies Used : **
+**Technologies Used :**
 Simple html and css 
